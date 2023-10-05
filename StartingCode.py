@@ -2,8 +2,8 @@ import requests
 import os
 import openai
 
-openai.api_key = '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'
-clipdrop_api_key = 'e3f4231072fa4e6cc7e351871d3d22463672b782581b9cf76b46d2f17b50d1504037b878ea44e62c0710f049f0f8ff71'
+openai.api_key = {Enter the API key}
+clipdrop_api_key = {Enter the API key}
 
 # Initialize global variables
 user_input = "begin"
