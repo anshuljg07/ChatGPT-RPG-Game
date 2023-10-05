@@ -2,8 +2,8 @@ import requests
 import os
 import openai
 
-openai.api_key = {Enter the API key}
-clipdrop_api_key = {Enter the API key}
+openai.api_key = #{Enter the API key}
+clipdrop_api_key = #{Enter the API key}
 
 # Initialize global variables
 user_input = "begin"
